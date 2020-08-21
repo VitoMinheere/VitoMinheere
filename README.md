@@ -4,8 +4,8 @@
 	<a href="https://www.linkedin.com/in/vitominheere"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-View my [resume](/resume/resume.pdf)
+View my [resume](https://github.com/VitoMinheere/VitoMinheere/blob/master/resume/resume.pdf)
 
 ## Certifications
 
-![Google Cloud Professional Data Engineer](https://miro.medium.com/max/400/1*Qq9_pTTcvrfHVfNi2FNphA.png)
+![Google Cloud Professional Data Engineer](https://github.com/VitoMinheere/VitoMinheere/blob/master/images/data_engineer.png)
