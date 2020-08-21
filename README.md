@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p align="center">
+	<a href="https://www.linkedin.com/in/vitominheere"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
+## Certifications
+
+![Google Cloud Professional Data Engineer](images/data_engineer.png)
 <!--
 **VitoMinheere/VitoMinheere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
