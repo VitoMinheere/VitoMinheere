@@ -6,7 +6,7 @@
 
 ## Certifications
 
-![Google Cloud Professional Data Engineer](images/data_engineer.png)
+![Google Cloud Professional Data Engineer](https://miro.medium.com/max/400/1*Qq9_pTTcvrfHVfNi2FNphA.png)
 <!--
 **VitoMinheere/VitoMinheere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
