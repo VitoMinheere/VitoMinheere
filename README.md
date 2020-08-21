@@ -1,4 +1,16 @@
-Hello there, I am Vito Minheere a Data Eingeer/Developer on the Google Cloud Platform.
+## Hello there.
+
+I am Vito Minheere, a Data Engineer/Developer focussing on the Google Cloud Platform.
+
+Currently employed as a Data Engineer at [Cloud Technology Solutions](https://www.cloudsolutions.co.uk/)
+
+### What makes me tick?
+
+- Advocate of free software(free as in freedom). 
+- Prefer the DIY attitude to off the shelf stuff. 
+- Simple but not easy.
+- Like to get down to the nuts and bolts to really learn how stuff works.
+
 
 View my [Resume](https://github.com/VitoMinheere/VitoMinheere/blob/master/resume/resume.pdf) here.
 
