@@ -2,7 +2,7 @@
 
 I am Vito Minheere, a Data Engineer/Developer focussing on the Google Cloud Platform.
 
-Currently employed as a Data Engineer at [Cloud Technology Solutions](https://www.cloudsolutions.co.uk/)
+Currently employed as a Data Engineer at [Incentro NEXT](https://www.incentro.com/)
 
 ### What makes me tick?
 
