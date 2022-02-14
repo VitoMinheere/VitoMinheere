@@ -1,13 +1,13 @@
 ## Hello there.
 
-I am Vito Minheere, a Data Engineer/Developer focussing on the Google Cloud Platform.
+I am Vito Minheere, a Data Engineer/Developer focused on the Google Cloud Platform.
 
 Currently employed as a Data Engineer at [Incentro NEXT](https://www.incentro.com/)
 
 ### What makes me tick?
 
-- Advocate of free software(free as in freedom). 
-- Prefer the DIY attitude to off the shelf stuff. 
+- Advocate of free software(free as in freedom).
+- Prefer the DIY attitude to off the shelf stuff.
 - Simple but not easy.
 - Like to get down to the nuts and bolts to really learn how stuff works.
 
@@ -24,7 +24,7 @@ View my [Resume](https://github.com/VitoMinheere/VitoMinheere/blob/master/resume
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
 
-## Social Links 
+## Social Links
 
 [![Linkedin Badge](https://img.shields.io/badge/-VitoMinheere-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/VitoMinheere/)](https://www.linkedin.com/in/VitoMinheere/)
 [![Instagram Badge](https://img.shields.io/badge/-Vito-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kapitein_kruishef/)](https://www.instagram.com/kapitein_kruishef/)
