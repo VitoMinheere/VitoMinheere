@@ -1,8 +1,8 @@
 ## Hello there.
 
-I am Vito Minheere, a Data Engineer/Developer focused on the Google Cloud Platform.
+I am Vito Minheere, a Backend Developer certified on the Google Cloud Platform.
 
-Currently employed as a Data Engineer at [Incentro NEXT](https://www.incentro.com/)
+Currently employed as a Python Consultant at [Codebeez](https://www.incentro.com/)
 
 ### What makes me tick?
 
@@ -10,9 +10,12 @@ Currently employed as a Data Engineer at [Incentro NEXT](https://www.incentro.co
 - Prefer the DIY attitude to off the shelf stuff.
 - Simple but not easy.
 - Like to get down to the nuts and bolts to really learn how stuff works.
+- Motorcycles. Currently riding a V-Strom DL 650 2012, doing my own maintenance. See my fuel/service logs on [Fuelly](https://www.fuelly.com/motorcycle/suzuki/dl650a_v-strom_abs/2012/baashaag/1017451)
 
 
 View my [Resume](https://github.com/VitoMinheere/VitoMinheere/blob/master/resume/resume.pdf) here.
+View my [Personal Website](https://vitominheere.com) here.
+
 
 ## Tech i work with
 
@@ -31,6 +34,3 @@ View my [Resume](https://github.com/VitoMinheere/VitoMinheere/blob/master/resume
 [![Gmail Badge](https://img.shields.io/badge/-vitominheere@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitominheere@gmail.com)](mailto:vitominheere@gmail.com)
 
 
-## Certifications
-
-![Google Cloud Professional Data Engineer](https://github.com/VitoMinheere/VitoMinheere/blob/master/images/data_engineer.png)
