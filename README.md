@@ -14,12 +14,12 @@ Certifications:
 - DP-203 (Azure Data Engineer Associate)
 - AZ-104 (Azure Administrator Associate)
 - AZ-305 (Azure Solutions Architect Expert)
-- AZ-400 (Azure DevOps Engineer Expert)
+- AZ-400 (Azure DevOps Engineer Expert)  
 - Google Cloud Professional Developer
 - Google Cloud Professional Data Engineer
-- Google Cloud Professional Cloud Architect
+- Google Cloud Professional Cloud Architect  
 - CKA: Certified Kubernetes Administrator
-- CKAD: Certified Kubernetes Application Developer
+- CKAD: Certified Kubernetes Application Developer  
 - PCAP: Python Certified Associate Programmer
 
 🛠 What I do:
@@ -31,7 +31,7 @@ Manage and orchestrate containers using Kubernetes
 🔍 Recent Focus:
 I'm currently freelancing under Vipyr, offering cloud platform engineering services with a focus on Azure landing zones, containerization, and automation.
 
-🚀 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/vitominheere/)
-[Email](mailto:vito@vipyr.nl)
-[Personal Website](https://vitominheere.com)
+🚀 Let's Connect!  
+[LinkedIn](https://www.linkedin.com/in/vitominheere/)  
+[Email](mailto:vito@vipyr.nl)  
+[Personal Website](https://vitominheere.com)  
