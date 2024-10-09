@@ -1,36 +1,37 @@
-## Hello there.
+👋 Hi, I'm Vito Minheere!
+I'm a Cloud Platform Engineer specializing in Azure and Google Cloud Platform (GCP) with extensive experience in building scalable cloud infrastructures. I hold multiple certifications and am passionate about automating and streamlining processes for efficient cloud deployments.
 
-I am Vito Minheere, a Backend Developer certified on the Google Cloud Platform.
+⚡ Skills:
+Cloud Platforms: Azure, GCP
+Infrastructure as Code: Terraform
+Container Orchestration: Kubernetes
+Programming: Python, Go
+DevOps & CI/CD: GitHub Actions, Jenkins, Azure DevOps
 
-Currently employed as a Python Consultant at [Codebeez](https://www.incentro.com/)
+Certifications:
+- AZ-900 (Azure Fundamentals)
+- DP-900 (Azure Data Fundamentals)
+- DP-203 (Azure Data Engineer Associate)
+- AZ-104 (Azure Administrator Associate)
+- AZ-305 (Azure Solutions Architect Expert)
+- AZ-400 (Azure DevOps Engineer Expert)
+- Google Cloud Professional Developer
+- Google Cloud Professional Data Engineer
+- Google Cloud Professional Cloud Architect
+- CKA: Certified Kubernetes Administrator
+- CKAD: Certified Kubernetes Application Developer
+- PCAP: Python Certified Associate Programmer
 
-### What makes me tick?
+🛠 What I do:
+Design and implement Azure Landing Zones
+Build and optimize cloud-native applications using microservices architecture
+Implement CI/CD pipelines for cloud deployments
+Manage and orchestrate containers using Kubernetes
 
-- Advocate of free software(free as in freedom).
-- Prefer the DIY attitude to off the shelf stuff.
-- Simple but not easy.
-- Like to get down to the nuts and bolts to really learn how stuff works.
-- Motorcycles. Currently riding a V-Strom DL 650 2012, doing my own maintenance. See my fuel/service logs on [Fuelly](https://www.fuelly.com/motorcycle/suzuki/dl650a_v-strom_abs/2012/baashaag/1017451)
+🔍 Recent Focus:
+I'm currently freelancing under Vipyr, offering cloud platform engineering services with a focus on Azure landing zones, containerization, and automation.
 
-
-View my [Resume](https://github.com/VitoMinheere/VitoMinheere/blob/master/resume/resume.pdf) here.
-View my [Personal Website](https://vitominheere.com) here.
-
-
-## Tech i work with
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
-
-## Social Links
-
-[![Linkedin Badge](https://img.shields.io/badge/-VitoMinheere-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/VitoMinheere/)](https://www.linkedin.com/in/VitoMinheere/)
-[![Instagram Badge](https://img.shields.io/badge/-Vito-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kapitein_kruishef/)](https://www.instagram.com/kapitein_kruishef/)
-[![Gmail Badge](https://img.shields.io/badge/-vitominheere@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitominheere@gmail.com)](mailto:vitominheere@gmail.com)
-
-
+🚀 Let's Connect!
+[LinkedIn](https://www.linkedin.com/in/vitominheere/)
+[Email](mailto:vito@vipyr.nl)
+[Personal Website](https://vitominheere.com)
